@@ -6,3 +6,4 @@
 
 ## 관련 문서
 - [개발컨벤션](./conventions/development-conventions.md)
+- [Git브랜치 전략](./git-branch-strategy/git-branch-strategy.md)
